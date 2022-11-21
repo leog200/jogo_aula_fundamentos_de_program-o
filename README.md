@@ -1,9 +1,9 @@
 # jogo_aula_fundamentos_de_programação
 
-Nome: Leonardo Grotto
-Curso: Ciência da Computação
-Universidade: Atitus Educação
-Professor: Marcos Roberto dos Santos
+<b>Nome: Leonardo Grotto<b>
+<b>Curso: Ciência da Computação<b>
+<b>Universidade: Atitus Educação<b>
+<b>Professor: Marcos Roberto dos Santos<b>
 
 
 Jogo da disciplina de fundamentos de programação(2022/2), feito através do PYGAME.
