@@ -6,4 +6,4 @@
 <b>Professor: Marcos Roberto dos Santos<b>
 
 
-Jogo da disciplina de fundamentos de programação(2022/2), feito através do PYGAME.
+Jogo da disciplina de fundamentos de programação(2022/2), feito através do PYGAME
