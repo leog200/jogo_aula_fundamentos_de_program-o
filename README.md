@@ -9,4 +9,4 @@ Professor: Marcos Roberto dos Santos<b>
 Universidade: Atitus Educação;<b>
 
 
-Jogo da disciplina de fundamentos de programação(2022/2), desenvolvido através do PYGAME.
+Jogo da disciplina de Fundamentos de Programação(2022/2), desenvolvido através do PYGAME.
