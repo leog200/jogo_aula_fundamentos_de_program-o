@@ -1,8 +1,11 @@
 #jogo_aula_fundamentos_de_programação
 
-Nome: Leonardo Grotto<b>;
+Nome: Leonardo Grotto;<b>
+
 Curso: Ciência da Computação;<b>
+
 Universidade: Atitus Educação;<b>
+
 Professor: Marcos Roberto dos Santos<b>
 
 
